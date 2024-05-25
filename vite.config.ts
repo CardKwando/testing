@@ -10,7 +10,7 @@ export default defineConfig(({ command }) => {
   }
 
   if (command !== 'serve') {
-    config.base = '/Mai_Website/'
+    config.base = '/Codebreaker/'
   }
 
   return config
